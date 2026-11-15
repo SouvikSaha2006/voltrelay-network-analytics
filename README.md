@@ -4,9 +4,9 @@
 **Event:** Gradient Learning Data Analytics Hackathon (Nov 2026)
 
 ## Quick Links
-* **Interactive Google Colab Notebook:** [Open in Google Colab](YOUR_COLAB_SHARE_LINK_HERE)
+* **Interactive Google Colab Notebook:** [Open in Google Colab](https://colab.research.google.com/drive/1FfQfoXwUqaqMWN_vOZbwOcSRY0JQlZQv)
 * **Executive Analysis Report (PDF):** [View Full Report](./VoltRelay_Energy_Analysis_Report.pdf)
-* **3-Minute Walkthrough Video:** [Watch Video Presentation](YOUR_VIDEO_LINK_HERE)
+* **3-Minute Walkthrough Video:** [Watch Video Presentation](https://drive.google.com/file/d/1XxNIZV8KhVWfnGBcuoSBRzcV3xVC1jHu/view?usp=drivesdk)
 
 ---
 
